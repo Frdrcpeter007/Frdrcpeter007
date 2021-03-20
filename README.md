@@ -44,7 +44,7 @@
 
 
 [gmail]: frdrcpeter@gmail.com
-[linkedin]: https://www.linkedin.com/in/peter-ndengo-600b65183/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bqa2SsKGeSNeqKOyOcWmUpg%3D%3D
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[linkedin]: https://www.linkedin.com/in/peter-ndengo-600b65183/
+[webdevplaylist]: https://github.com/frdrcpeter007
+[jsplaylist]: https://github.com/frdrcpeter007
+[cssplaylist]: https://github.com/frdrcpeter007
