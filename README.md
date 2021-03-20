@@ -38,7 +38,9 @@
 ---
 
 
-  ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=frdrcpeter007&hide=prs&count_private=true&theme=synthwave&show_icons=true)
+  [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=frdrcpeter007&hide=prs&count_private=true&theme=synthwave&show_icons=true)](https://github.com/Frdrcpeter007)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frdrcpeter007&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Frdrcpeter007)
 
 
 [gmail]: frdrcpeter@gmail.com
