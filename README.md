@@ -2,7 +2,7 @@
 
 [![linkedIn](https://img.shields.io/github/followers/frdrcpeter007?label=Follow)](https://www.linkedin.com/in/peter-ndengo-600b65183)
 
-## Je suis un super passioné de la programmation comme t'a pas idée!!
+## Je suis un super passioné de la programmation comme t'as pas idée!!
 
 - 🌱 J'apprends TypeScript et GraphQL actuellement 🤣
 - 👯 Je souhaite collaborer avec d’autres développeur pour me dévélopper encore plus
